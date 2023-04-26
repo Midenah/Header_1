@@ -17,6 +17,6 @@
         hover:bg-teal-400/75 transition-all duration-150;
     }
     .bnts{
-        @apply ml-80
+        @apply ml-80;
     }
 }

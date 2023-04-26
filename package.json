@@ -3,6 +3,7 @@
     "tailwindcss": "^3.3.1"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
     "daisyui": "^2.51.5"
   }
 }
