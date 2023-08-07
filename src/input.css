@@ -16,7 +16,4 @@
         @apply py-2 px-2 bg-teal-400  rounded-3xl w-52
         hover:bg-teal-400/75 transition-all duration-150;
     }
-    .bnts{
-        @apply ml-80;
-    }
 }
